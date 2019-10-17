@@ -1,0 +1,14 @@
+,A,B,X,flip_order,order,repeats,response,subject
+0,1.2.2.wav,1.2.4.wav,1.2.4.wav,0,0,3,l,Papyri
+1,5.2.3.wav,5.2.5.wav,5.2.3.wav,0,1,1,f,Papyri
+2,1.1.2.wav,1.1.4.wav,1.1.2.wav,0,2,2,l,Papyri
+3,2.1.1.wav,2.1.3.wav,2.1.1.wav,0,3,5,l,Papyri
+4,2.1.2.wav,2.1.4.wav,2.1.2.wav,0,4,3,l,Papyri
+5,4.2.3.wav,4.2.5.wav,4.2.5.wav,1,5,1,l,Papyri
+6,2.2.3.wav,2.2.5.wav,2.2.3.wav,1,6,11,e,Papyri
+7,3.1.3.wav,3.1.5.wav,3.1.3.wav,1,7,3,f,Papyri
+8,3.2.1.wav,3.2.3.wav,3.2.1.wav,1,8,2,f,Papyri
+9,4.1.1.wav,4.1.3.wav,4.1.3.wav,1,9,2,f,Papyri
+10,3.1.2.wav,3.1.4.wav,3.1.2.wav,1,10,3,f,Papyri
+11,4.2.2.wav,4.2.4.wav,4.2.4.wav,0,11,1,l,Papyri
+12,3.2.2.wav,3.2.4.wav,3.2.2.wav,1,12,3,,Papyri
